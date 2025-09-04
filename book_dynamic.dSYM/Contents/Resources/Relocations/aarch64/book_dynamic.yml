@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/suharnikovegor/Проекты /с++/dynamical_memory/book_dynamic"
+relocations:     []
+...

@@ -6,7 +6,6 @@ using namespace std;
 
 int main() {
     srand(time(0));
-
     int n, m;
     cout << "Введите количество строк: ";
     cin >> m;
